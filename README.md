@@ -12,7 +12,7 @@ Data Science and Artificial Intelligence at Pontifical Catholic University of Ca
 
 I have experience with a variety of programming languages, libraries, and tools.
 
-    Programming Languages: Python, C, SQL, MongoDB 
+Programming Languages: Python, C, SQL, MongoDB 
 
 Python Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, NetworkX, PyMongo 
 
@@ -26,5 +26,4 @@ Tools: Microsoft 365 (Office Suite)
 
 📫 Connect with me
 
-www.linkedin.com/in/enzoambrosio" target="_blank">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+www.linkedin.com/in/enzoambrosio
