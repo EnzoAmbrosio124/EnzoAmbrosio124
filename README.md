@@ -1,29 +1,40 @@
-Hi, I'm Enzo Ambrósio da Costa 👋
+# Hi there, I'm Enzo Ambrósio da Costa 👋
 
-I'm a Data Science and Artificial Intelligence student with a strong passion for data analysis and machine learning. 
+🎓 **Undergraduate Student in Data Science and Artificial Intelligence**  
+📍 *Pontifical Catholic University of Campinas (PUC-Campinas)*  
+💡 Passionate about data, analytics, and building intelligent solutions through Machine Learning and AI.
 
-🎓 Education
+---
 
-I am currently pursuing a Bachelor's degree in 
+## 🚀 About Me
 
-Data Science and Artificial Intelligence at Pontifical Catholic University of Campinas (PUC-Campinas).
+I'm an aspiring Data Scientist and AI enthusiast, driven by the power of data to uncover insights and build smarter systems. I thrive in projects that involve **data exploration**, **predictive modeling**, and **problem-solving through code**.
 
-🛠️ Skills & Technologies
+---
 
-I have experience with a variety of programming languages, libraries, and tools.
+## 🛠️ Skills & Technologies
 
-Programming Languages: Python, C, SQL, MongoDB 
+**Languages**  
+`Python` | `C` | `SQL` | `MongoDB`
 
-Python Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, NetworkX, PyMongo 
+**Python Libraries**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `NetworkX` • `PyMongo`
 
-C Libraries: stdio.h, stdlib.h 
+**C Libraries**  
+`stdio.h` • `stdlib.h`
 
-Core Competencies: Statistics and inference, data mining and visualization, and basic knowledge of Machine Learning (predictive analysis) and AI search methods. 
+**Core Competencies**  
+- Statistical Analysis & Inference  
+- Data Mining & Visualization  
+- Predictive Analytics (Basic ML)  
+- AI Search Algorithms
 
-Methodologies: Agile (Scrum, Kanban) 
+**Tools & Methodologies**  
+- Agile Workflow (Scrum, Kanban)  
+- Microsoft Office Suite (365)
 
-Tools: Microsoft 365 (Office Suite) 
+---
 
-📫 Connect with me
+## 📫 Let’s Connect!
 
-www.linkedin.com/in/enzoambrosio
+📎 [LinkedIn – enzoambrosio](https://www.linkedin.com/in/enzoambrosio)
