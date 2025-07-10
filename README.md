@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Enzo Ambrósio da Costa 👋
 
-<!--
-**EnzoAmbrosio124/EnzoAmbrosio124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science and Artificial Intelligence student with a strong passion for data analysis and machine learning. 
 
-Here are some ideas to get you started:
+🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing a Bachelor's degree in 
+
+Data Science and Artificial Intelligence at Pontifical Catholic University of Campinas (PUC-Campinas).
+
+🛠️ Skills & Technologies
+
+I have experience with a variety of programming languages, libraries, and tools.
+
+    Programming Languages: Python, C, SQL, MongoDB 
+
+Python Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, NetworkX, PyMongo 
+
+C Libraries: stdio.h, stdlib.h 
+
+Core Competencies: Statistics and inference, data mining and visualization, and basic knowledge of Machine Learning (predictive analysis) and AI search methods. 
+
+Methodologies: Agile (Scrum, Kanban) 
+
+Tools: Microsoft 365 (Office Suite) 
+
+📫 Connect with me
+
+www.linkedin.com/in/enzoambrosio" target="_blank">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
